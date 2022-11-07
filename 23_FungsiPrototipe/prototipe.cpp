@@ -6,6 +6,7 @@ void printn(double x);
 
 int main () {
     double panjang, lebar, luas;
+    cout >> "Masukan Nilai : " << endly;
     cin >> panjang;
     cin >> lebar;
 
